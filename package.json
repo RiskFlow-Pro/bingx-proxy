@@ -1,0 +1,11 @@
+{
+  "name": "bingx-proxy",
+  "version": "1.0.0",
+  "main": "index-bingx.js",
+  "scripts": {
+    "start": "node index-bingx.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
